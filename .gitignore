@@ -1,0 +1,4 @@
+/venv
+/wikimoviesproject/wikimoviesproject/__pycache__
+/wikimoviesproject/wikimoviesproject/spiders/__pycache__
+.DS_Store
